@@ -1,0 +1,4 @@
+MethodNorm,Avg Latency(ms) (baseline),Avg Latency(ms) (multithread),Δ,Δ%
+API,657.74,983.69,325.95,49.56
+BS4,925.16,14668.39,13743.23,1485.5
+Selenium,5512.47,6747.96,1235.49,22.41

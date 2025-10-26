@@ -1,0 +1,17 @@
+
+🎯 Starting API scraper...
+❌ API scraper failed: HTTPSConnectionPool(host='api.themoviedb.org', port=443): Max retries exceeded with url: /3/genre/movie/list?api_key=a69d199fd91304d9dfc454bc6e0dc3e9&language=en-US (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x781f7629e4b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+✅ Saved 0 rows → movies_api.csv
+✅ Saved 0 rows → movies_bs4.csv
+✅ Saved 0 rows → movies_selenium.csv
+⚠️  Skipped common join - not all methods were run
+
+🔍 Summary
+Method     | rows | req | bytes      | avg_lat(ms) | time(s)
+----------------------------------------------------------------
+API        |    0 |   0 |          0 |       0.00 |    0.00
+BS4        |    0 |   0 |          0 |       0.00 |    0.00
+Selenium   |    0 |   0 |          0 |       0.00 |    0.00
+Common     |    0 | -   | -          | -          | -      
+✅ Saved JSON metrics → scrape_metrics_summary.json
+✅ Saved network metrics → scrape_network_metrics.csv

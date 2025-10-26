@@ -1,0 +1,19 @@
+================================================================================
+TCP Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |
+192.168.132.132:53306      <-> 18.172.226.22:443              347 1,081 kB      347 57 kB         694 1,139 kB      0.000000000        51.1977
+================================================================================
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+sll                                      frames:694 bytes:1139165
+  ip                                     frames:694 bytes:1139165
+    tcp                                  frames:694 bytes:1139165
+      tls                                frames:150 bytes:629090
+        tcp.segments                     frames:74 bytes:354010
+          tls                            frames:68 bytes:336738
+===================================================================

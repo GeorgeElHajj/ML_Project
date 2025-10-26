@@ -1,0 +1,4 @@
+Method,Bandwidth(KB),Time(s),#Requests,Avg Latency(ms),folder
+API,24.36,1.53,3,657.74,api_20251026-174847
+BS4,3949.37,51.4,32,925.16,bs4_20251026-174857
+Selenium,5017.52,255.01,32,5512.47,selenium_20251026-174955

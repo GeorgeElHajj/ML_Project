@@ -1,0 +1,17 @@
+
+🎯 Starting API scraper...
+✅ API done in 1.53s — 30 movies, metrics: {'requests': 3, 'bytes': 24949, 'avg_latency_ms': 657.74, 'total_latency_s': 1.973, 'elapsed_s': 1.53}
+✅ Saved 30 rows → movies_api.csv
+✅ Saved 0 rows → movies_bs4.csv
+✅ Saved 0 rows → movies_selenium.csv
+⚠️  Skipped common join - not all methods were run
+
+🔍 Summary
+Method     | rows | req | bytes      | avg_lat(ms) | time(s)
+----------------------------------------------------------------
+API        |   30 |   3 |      24949 |     657.74 |    1.53
+BS4        |    0 |   0 |          0 |       0.00 |    0.00
+Selenium   |    0 |   0 |          0 |       0.00 |    0.00
+Common     |    0 | -   | -          | -          | -      
+✅ Saved JSON metrics → scrape_metrics_summary.json
+✅ Saved network metrics → scrape_network_metrics.csv

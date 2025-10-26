@@ -1,0 +1,3 @@
+interface: ens33
+IP address is: 192.168.132.132
+MAC address is: 00:0c:29:0e:29:c4

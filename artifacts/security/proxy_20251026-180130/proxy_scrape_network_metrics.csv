@@ -1,0 +1,4 @@
+Method,Bandwidth(KB),Time(s),#Requests,Avg Latency(ms)
+API_TOR,24.36,4.91,3,1328.49
+BS4_TOR,4235.25,96.0,33,2300.5
+Selenium_TOR,4829.24,310.29,32,849.32

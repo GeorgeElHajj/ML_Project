@@ -1,0 +1,4 @@
+Method,Bandwidth(KB),Time(s),#Requests,Avg Latency(ms)
+API,0.0,0,0,0
+BS4,3949.37,51.4,32,925.16
+Selenium,0.0,0,0,0

@@ -1,0 +1,11 @@
+🚀 API (multithreaded)
+✅ API_MT done in 3.88s — 30 movies
+🚀 BS4 (multithreaded, robust)
+✅ BS4_MT done in 60.7s — 30 movies
+🚀 Selenium (detail pages — full fields)
+✅ Selenium_MP done in 250.67s — 30 movies
+💾 mt_movies_api.csv
+💾 mt_movies_bs4.csv
+💾 mt_movies_selenium_mp.csv
+💾 mt_scrape_network_metrics.csv
+✅ Done. Metrics & CSVs saved.

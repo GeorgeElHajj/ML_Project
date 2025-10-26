@@ -1,0 +1,35 @@
+interface: ens33
+IP address is: 192.168.132.132
+MAC address is: 00:0c:29:0e:29:c4
+Listening on ens33
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 georges-VMware-Virtual-Platform          =>         0b     1.52Kb     2.02Kb     7.59KB
+     104.18.87.42                             <=         0b      187Kb     67.0Kb      251KB
+   2 georges-VMware-Virtual-Platform          =>     5.52Kb     10.5Kb     26.1Kb     97.8KB
+     server-18-172-226-58.bcn50.r.cloudfront  <=     35.9Kb      136Kb      277Kb     1.01MB
+   3 georges-VMware-Virtual-Platform          =>         0b     6.76Kb     3.28Kb     12.3KB
+     mrs08s20-in-f8.1e100.net                 <=         0b      123Kb     73.7Kb      276KB
+   4 georges-VMware-Virtual-Platform          =>         0b     5.97Kb     2.61Kb     9.77KB
+     mrs09s06-in-f10.1e100.net                <=         0b     10.9Kb     5.46Kb     20.5KB
+   5 georges-VMware-Virtual-Platform          =>         0b     9.38Kb     5.81Kb     21.8KB
+     server-18-172-226-9.bcn50.r.cloudfront.  <=         0b     6.06Kb      139Kb      523KB
+   6 georges-VMware-Virtual-Platform          =>         0b     4.94Kb     1.65Kb     6.17KB
+     216.239.38.181                           <=         0b     9.95Kb     3.32Kb     12.4KB
+   7 georges-VMware-Virtual-Platform          =>         0b     2.51Kb       856b     3.13KB
+     wo-in-f154.1e100.net                     <=         0b     6.04Kb     2.01Kb     7.54KB
+   8 georges-VMware-Virtual-Platform          =>         0b     2.31Kb       789b     2.89KB
+     172.64.155.119                           <=         0b     3.84Kb     1.28Kb     4.80KB
+   9 georges-VMware-Virtual-Platform          =>         0b       856b     1.19Kb     4.46KB
+     _gateway                                 <=         0b     1.60Kb     2.11Kb     7.92KB
+  10 georges-VMware-Virtual-Platform          =>     2.25Kb       493b     8.75Kb     32.8KB
+     anonode.uk-1.prod.encrypt.co.il          <=       160b       493b     1.60Kb     6.00KB
+--------------------------------------------------------------------------------------------
+Total send rate:                                     12.3Kb     47.1Kb     61.3Kb
+Total receive rate:                                  36.4Kb      485Kb      624Kb
+Total send and receive rate:                         48.6Kb      532Kb      685Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                      169Kb     2.34Mb     2.47Mb
+Cumulative (sent/received/total):                     230KB     2.28MB     2.51MB
+============================================================================================
+

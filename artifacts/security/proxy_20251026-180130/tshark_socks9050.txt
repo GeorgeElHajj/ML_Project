@@ -1,0 +1,15 @@
+Running as user "root" and group "root". This could be dangerous.
+Capturing on 'ens33'
+0 packets captured
+================================================================================
+TCP Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |
+================================================================================
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+===================================================================

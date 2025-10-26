@@ -1,0 +1,4 @@
+Method,Bandwidth(KB),Time(s),#Requests,Avg Latency(ms)
+API_MT,137.44,3.88,38,983.69
+BS4_MT,4813.46,60.7,36,14668.39
+Selenium_MP,5016.95,250.67,32,6747.96

@@ -1,0 +1,4 @@
+MethodNorm,Bandwidth(KB) (baseline),Bandwidth(KB) (multithread),Δ,Δ%
+API,24.36,137.44,113.08,464.2
+BS4,3949.37,4813.46,864.09,21.88
+Selenium,5017.52,5016.95,-0.57,-0.01

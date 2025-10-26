@@ -1,0 +1,25 @@
+interface: ens33
+IP address is: 192.168.132.132
+MAC address is: 00:0c:29:0e:29:c4
+Listening on ens33
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 georges-VMware-Virtual-Platform          =>     1.41Kb     6.35Kb     6.26Kb     23.5KB
+     server-18-172-226-22.bcn50.r.cloudfront  <=      129Kb      128Kb      140Kb      527KB
+   2 georges-VMware-Virtual-Platform          =>         0b       922b       768b     2.81KB
+     anonode.uk-1.prod.encrypt.co.il          <=         0b        64b        53b       200B
+   3 georges-VMware-Virtual-Platform          =>         0b       922b       625b     2.29KB
+     45.138.16.240                            <=         0b        64b       196b       736B
+   4 georges-VMware-Virtual-Platform          =>         0b        32b       186b       696B
+     88.37.100.176.in-addr.arpa               <=         0b       461b       471b     1.73KB
+   5 georges-VMware-Virtual-Platform          =>         0b         0b       173b       649B
+     _gateway                                 <=         0b         0b       325b     1.19KB
+--------------------------------------------------------------------------------------------
+Total send rate:                                     1.41Kb     8.19Kb     7.97Kb
+Total receive rate:                                   129Kb      129Kb      141Kb
+Total send and receive rate:                          131Kb      137Kb      149Kb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     13.7Kb      247Kb      253Kb
+Cumulative (sent/received/total):                    29.9KB      530KB      560KB
+============================================================================================
+

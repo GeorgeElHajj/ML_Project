@@ -1,0 +1,17 @@
+
+🎯 Starting Selenium scraper...
+✅ Selenium done in 255.01s — 30 movies, metrics: {'requests': 32, 'bytes': 5137945, 'avg_latency_ms': 5512.47, 'total_latency_s': 176.399, 'elapsed_s': 255.01}
+✅ Saved 0 rows → movies_api.csv
+✅ Saved 0 rows → movies_bs4.csv
+✅ Saved 30 rows → movies_selenium.csv
+⚠️  Skipped common join - not all methods were run
+
+🔍 Summary
+Method     | rows | req | bytes      | avg_lat(ms) | time(s)
+----------------------------------------------------------------
+API        |    0 |   0 |          0 |       0.00 |    0.00
+BS4        |    0 |   0 |          0 |       0.00 |    0.00
+Selenium   |   30 |  32 |    5137945 |    5512.47 |  255.01
+Common     |    0 | -   | -          | -          | -      
+✅ Saved JSON metrics → scrape_metrics_summary.json
+✅ Saved network metrics → scrape_network_metrics.csv

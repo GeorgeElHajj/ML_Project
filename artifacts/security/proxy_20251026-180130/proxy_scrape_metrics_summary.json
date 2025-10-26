@@ -1,0 +1,24 @@
+{
+  "api": {
+    "requests": 3,
+    "bytes": 24949,
+    "avg_latency_ms": 1328.49,
+    "total_latency_s": 3.985,
+    "elapsed_s": 4.91
+  },
+  "bs4": {
+    "requests": 33,
+    "bytes": 4336891,
+    "avg_latency_ms": 2300.5,
+    "total_latency_s": 75.917,
+    "elapsed_s": 96.0
+  },
+  "selenium": {
+    "requests": 32,
+    "bytes": 4945138,
+    "avg_latency_ms": 849.32,
+    "total_latency_s": 27.178,
+    "elapsed_s": 310.29
+  },
+  "proxy": "tor"
+}

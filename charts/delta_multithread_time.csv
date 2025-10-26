@@ -1,0 +1,4 @@
+MethodNorm,Time(s) (baseline),Time(s) (multithread),Δ,Δ%
+API,1.53,3.88,2.35,153.59
+BS4,51.4,60.7,9.3,18.09
+Selenium,255.01,250.67,-4.34,-1.7

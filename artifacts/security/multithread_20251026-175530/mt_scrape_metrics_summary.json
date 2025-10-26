@@ -1,0 +1,23 @@
+{
+  "api_mt": {
+    "requests": 38,
+    "bytes": 140741,
+    "avg_latency_ms": 983.69,
+    "total_latency_s": 37.38,
+    "elapsed_s": 3.88
+  },
+  "bs4_mt": {
+    "requests": 36,
+    "bytes": 4928985,
+    "avg_latency_ms": 14668.39,
+    "total_latency_s": 528.062,
+    "elapsed_s": 60.7
+  },
+  "selenium_mp": {
+    "requests": 32,
+    "bytes": 5137356,
+    "avg_latency_ms": 6747.96,
+    "total_latency_s": 215.935,
+    "elapsed_s": 250.67
+  }
+}

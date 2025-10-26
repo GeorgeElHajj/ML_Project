@@ -1,0 +1,22 @@
+{
+  "api": {
+    "requests": 0,
+    "bytes": 0,
+    "avg_latency_ms": 0,
+    "elapsed_s": 0
+  },
+  "bs4": {
+    "requests": 0,
+    "bytes": 0,
+    "avg_latency_ms": 0,
+    "elapsed_s": 0
+  },
+  "selenium": {
+    "requests": 32,
+    "bytes": 5137945,
+    "avg_latency_ms": 5512.47,
+    "total_latency_s": 176.399,
+    "elapsed_s": 255.01
+  },
+  "common_rows": 0
+}

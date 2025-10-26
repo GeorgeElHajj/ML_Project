@@ -1,0 +1,17 @@
+
+🎯 Starting BeautifulSoup scraper...
+✅ BS4 done in 51.4s — 30 movies, metrics: {'requests': 32, 'bytes': 4044158, 'avg_latency_ms': 925.16, 'total_latency_s': 29.605, 'elapsed_s': 51.4}
+✅ Saved 0 rows → movies_api.csv
+✅ Saved 30 rows → movies_bs4.csv
+✅ Saved 0 rows → movies_selenium.csv
+⚠️  Skipped common join - not all methods were run
+
+🔍 Summary
+Method     | rows | req | bytes      | avg_lat(ms) | time(s)
+----------------------------------------------------------------
+API        |    0 |   0 |          0 |       0.00 |    0.00
+BS4        |   30 |  32 |    4044158 |     925.16 |   51.40
+Selenium   |    0 |   0 |          0 |       0.00 |    0.00
+Common     |    0 | -   | -          | -          | -      
+✅ Saved JSON metrics → scrape_metrics_summary.json
+✅ Saved network metrics → scrape_network_metrics.csv

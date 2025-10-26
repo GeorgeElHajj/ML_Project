@@ -1,0 +1,25 @@
+Running as user "root" and group "root". This could be dangerous.
+Capturing on 'ens33'
+68 packets captured
+================================================================================
+TCP Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |
+192.168.132.132:55092      <-> 185.199.111.153:443             16 21 kB          17 1,753 bytes      33 22 kB        44.784683482         0.7957
+192.168.132.132:56714      <-> 185.199.108.153:443             13 20 kB          14 1,591 bytes      27 22 kB        43.952155072         0.9081
+192.168.132.132:48080      <-> 185.125.190.18:80                4 423 bytes       4 324 bytes       8 747 bytes     0.000000000         0.1898
+================================================================================
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+eth                                      frames:68 bytes:46227
+  ip                                     frames:68 bytes:46227
+    tcp                                  frames:68 bytes:46227
+      http                               frames:2 bytes:385
+      tls                                frames:24 bytes:42076
+        tcp.segments                     frames:12 bytes:23254
+          tls                            frames:12 bytes:23254
+===================================================================

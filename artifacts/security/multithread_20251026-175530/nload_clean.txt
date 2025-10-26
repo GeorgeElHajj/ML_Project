@@ -1,0 +1,1348 @@
+Script started on 2025-10-26 17:55:31+02:00 [COMMAND="sudo timeout 200 nload -u M -t 1000 -m ens33" <not executed on terminal>]
+^@[?1049h(B[?7h[?1h=Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.00 MByte/sMax: 0.00 MByte/s
+Ttl: 2.49 GByteTtl: 167.61 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.00 MByte/sMax: 0.00 MByte/s
+Ttl: 2.49 GByteTtl: 167.61 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.00 MByte/sMax: 0.00 MByte/s
+Ttl: 2.49 GByteTtl: 167.61 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.02 MByte/s
+Avg: 0.00 MByte/sAvg: 0.01 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.63 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.01 MByte/s
+Avg: 0.00 MByte/sAvg: 0.01 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.64 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.01 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.64 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.01 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.64 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.00 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.01 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.65 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.01 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.67 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.67 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.04 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.68 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.69 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.69 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.69 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.69 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.69 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.69 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.01 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.70 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.01 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.05 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.71 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.72 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.73 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.73 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.73 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.75 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.75 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.76 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.76 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.76 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.76 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.76 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.01 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.77 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.77 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.78 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.01 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.78 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.78 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.78 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.79 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.79 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.79 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.04 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.80 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.80 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.80 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.80 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.80 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.80 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.81 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.04 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.81 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.81 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.81 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.82 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.82 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.82 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.82 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.82 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.83 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.83 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.83 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.83 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.84 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.84 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.04 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.84 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.84 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.84 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.84 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.84 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.85 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.86 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.87 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.88 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.89 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.02 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.06 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.91 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.18 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.18 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.91 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.15 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.18 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.92 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.02 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.18 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.93 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.19 MByte/sCurr: 0.02 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.19 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.96 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.29 MByte/sCurr: 0.01 MByte/s
+Avg: 0.02 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.97 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.25 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 167.98 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.26 MByte/sCurr: 0.02 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.00 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.23 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.02 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.21 MByte/sCurr: 0.02 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.03 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.09 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.04 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.04 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.10 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.04 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.15 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.05 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.10 MByte/sCurr: 0.02 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.06 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.07 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.07 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.07 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.15 MByte/sCurr: 0.01 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.08 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.08 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.01 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.09 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.09 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.02 MByte/s
+Ttl: 2.49 GByteTtl: 168.09 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.03 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.12 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.07 MByte/sCurr: 0.02 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.14 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.01 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.15 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.16 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.17 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.10 MByte/sCurr: 0.01 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.18 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.00 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.18 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.04 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.18 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.18 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.19 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.19 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.19 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.20 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.09 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.20 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.20 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.20 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.21 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.21 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.05 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.21 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.22 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.22 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.22 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.23 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.10 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.23 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.24 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.24 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.24 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.25 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.25 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.08 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.25 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.25 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.26 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.27 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.27 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.28 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.28 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.29 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.29 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.30 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.02 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.31 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.31 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.02 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.34 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.08 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.35 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.04 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.35 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.35 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.35 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.35 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.36 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.36 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.06 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.36 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.37 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.37 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.37 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.38 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.09 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.38 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.02 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.38 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.38 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.38 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.39 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.39 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.08 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.40 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.00 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.40 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.00 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.40 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.01 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.41 MByte
+Device ens33 [192.168.132.132] (1/1):
+==Incoming:Outgoing:
+Curr: 0.03 MByte/sCurr: 0.01 MByte/s
+Avg: 0.03 MByte/sAvg: 0.00 MByte/s
+Min: 0.00 MByte/sMin: 0.00 MByte/s
+Max: 0.29 MByte/sMax: 0.03 MByte/s
+Ttl: 2.49 GByteTtl: 168.41 MByte
+[?1049l
+[?1l>
+Script done on 2025-10-26 17:58:51+02:00 [COMMAND_EXIT_CODE="124"]

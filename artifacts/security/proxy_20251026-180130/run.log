@@ -1,0 +1,12 @@
+✅ Tor reachable.
+🌐 API via Tor
+✅ API done in 4.91s — 30 movies
+🌐 BS4 via Tor
+✅ BS4 done in 96.0s — 30 movies
+🧭 Selenium via Tor
+✅ Selenium done in 310.29s — 30 movies
+💾 proxy_movies_api.csv
+💾 proxy_movies_bs4.csv
+💾 proxy_movies_selenium.csv
+💾 proxy_scrape_network_metrics.csv
+✅ Completed proxy run.

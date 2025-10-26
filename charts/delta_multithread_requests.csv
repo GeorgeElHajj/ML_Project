@@ -1,0 +1,4 @@
+MethodNorm,#Requests (baseline),#Requests (multithread),Δ,Δ%
+API,3,38,35,1166.67
+BS4,32,36,4,12.5
+Selenium,32,32,0,0.0
